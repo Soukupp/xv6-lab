@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "new": "c"
+        "new": "c",
+        "typeinfo": "c"
     }
 }
